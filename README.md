@@ -6,7 +6,7 @@ Copia más abajo tus programas, cada uno en su parte del reto.
 ## Actividad 1: Dibujo de 4x8 píxeles
 Las 8 primeras fílas de pantalla, de distintos colores
 ```
-21 F0 F0 22 00 C0 21 00 00 22 00 C8 21 0F 0F 22 00 D0 21 FF FF 22 00 D8 21 00 00 22 00 E0 21 0F 0F 22 00 E8 21 F0 F0 22 00 F0 21 FF FF 22 00 F8 18 FE
+3E F0 32 00 C0 3E 00 32 00 C8 3E 0F 32 00 D0 3E FF 32 00 D8 3E 00 32 00 E0 3E 0F 32 00 E8 3E F0 32 00 F0 3E FF 32 00 F8 18 FE
 ```
 PC: 4000
 
